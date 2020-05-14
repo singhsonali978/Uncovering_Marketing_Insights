@@ -1,8 +1,5 @@
-# **INFO7374DigitalMarketingAnalytics**
+# **Uncovering Marketing Insights**
 
-
-## Claat Link
-https://docs.google.com/document/d/1jG9kTZjm1-TBjMZSOWQDPzePbXdTAlR-CGmoPzSfZd4/edit?usp=sharing
 
 # **Dashboard of Salesforce**
 
@@ -18,7 +15,7 @@ The Marketing_Spend.csv file is a fake file containing marketing budgets for onl
  
 
 ### Cohort Analysis
-aCohort analysis in e commerce means to monitor your customers’ behavior based on common traits they share – the first product they bought, when they became customers, etc. – to find patterns and tailor marketing activities for the group.
+Cohort analysis in e commerce means to monitor your customers’ behavior based on common traits they share – the first product they bought, when they became customers, etc. – to find patterns and tailor marketing activities for the group.
  
 Recency, Frequency and Monetary Value 
 RFM is an acronym of recency, frequency and monetary. Recency is about when the last order of a customer. It means the number of days since a customer made the last purchase. If it’s a case for a website or an app, this could be interpreted as the last visit day or the last login time.
