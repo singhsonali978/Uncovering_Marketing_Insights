@@ -38,10 +38,9 @@ Churn Rate is the annual percentage rate at which customers stop subscribing.
 Customer lifetime value, lifetime customer value, or life-time value is a prediction of the net profit attributed to the entire future relationship with a customer.
 
 ## Running Jupyter Notebook
- 1. Create a folder in my drive with name ADM 
+ 1. Create a folder in your goole drive and store the provided datasets there. 
  2. In google collab on the run time tab click change runtime and then Hardware accelerator as GPU
- 3. Inside it create another folder Assignment1
- 4. Put all the data set given in that folder
- 5. Jupyter notebook then should be run on Google Collab 
+ 3. Update the path variable to the location where the datasets reside in your drive
+ 4. Jupyter notebook then should be run on Google Collab 
  
  All the visualiztion from Pandas, Xsvs Scripts and images , Trifacta, Salesforce are given in respected folder
