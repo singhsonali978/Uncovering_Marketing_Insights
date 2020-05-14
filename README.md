@@ -1,7 +1,7 @@
 # **Uncovering Marketing Insights**
 
 
-# **Dashboard of Salesforce**
+## **Dashboard of Salesforce**
 
 Format: ![Alt Text](https://github.com/singhsonali978/Uncovering_Marketing_Insights/blob/master/Dashboard.png)
 
